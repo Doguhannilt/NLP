@@ -2,7 +2,8 @@
 
 NLP (Natural Language Processing) enables computers to understand and generate human language. It has applications in speech recognition, machine translation, sentiment analysis, and text classification.
 
-Key steps in NLP:
+
+# Key steps in NLP:
 
 1-) Text pre-processing: Cleaning and transforming raw text data for analysis.
 
@@ -15,7 +16,7 @@ Key steps in NLP:
 5-)Part-of-speech tagging: Assigning a grammatical tag to each word.
 
 
-NLP tasks:
+# NLP tasks:
 
 I-) Sentiment analysis: Identifying sentiment in text (positive, negative, neutral).
 
@@ -24,7 +25,7 @@ II-) Text classification: Assigning categories or labels to text.
 III-) Machine learning models: Support vector machines, logistic regression, neural networks.
 
 
-Benefits:
+# Benefits:
 
 a.Social media monitoring
 
