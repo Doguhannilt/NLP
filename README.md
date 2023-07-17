@@ -5,36 +5,37 @@ NLP (Natural Language Processing) enables computers to understand and generate h
 
 # Key steps in NLP:
 
-1-) Text pre-processing: Cleaning and transforming raw text data for analysis.
+<ol>
+  <li>Text pre-processing: Cleaning and transforming raw text data for analysis.</li>
 
-2-) Tokenization: Breaking text into individual words or tokens.
+  <li>Tokenization: Breaking text into individual words or tokens.</li>
 
-3-) Stemming: Reducing words to their base form.
+  <li>Stemming: Reducing words to their base form.</li>
 
-4-)Stopword removal: Removing common, uninformative words.
+  <li>Stopword removal: Removing common, uninformative words.</li>
 
-5-)Part-of-speech tagging: Assigning a grammatical tag to each word.
-
+  <li>Part-of-speech tagging: Assigning a grammatical tag to each word.</li>
+</ol>
 
 # NLP tasks:
+<ol>
+  <li>Sentiment analysis: Identifying sentiment in the text (positive, negative, neutral).</li>
 
-I-) Sentiment analysis: Identifying sentiment in text (positive, negative, neutral).
+  <li>Text classification: Assigning categories or labels to text.</li>
 
-II-) Text classification: Assigning categories or labels to text.
-
-III-) Machine learning models: Support vector machines, logistic regression, neural networks.
-
+  <li>Machine learning models: Support vector machines, logistic regression, and neural networks.</li>
+</ol>
 
 # Benefits:
+<ol>
+  <li>Social media monitoring</li>
 
-a.Social media monitoring
+  <li>Customer feedback analysis</li>
 
-b.Customer feedback analysis
+  <li>Brand reputation management</li>
 
-c.Brand reputation management
-
-d.Spam filtering
-
+  <li>Spam filtering</li>
+</ol>
 e.News categorization
 
 g.Document classification
